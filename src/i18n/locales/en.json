@@ -1,0 +1,119 @@
+{
+  "home": {
+    "title": "Welcome to FireBase Shop!",
+    "menuLabel": "Home"
+  },
+  "forbidden": {
+    "title": "Access Denied"
+  },
+  "loginPage": {
+    "regTypeSignUp": "Sign Up",
+    "regTypeLogin": "Log In",
+    "regTypeLogOut": "Log Out"
+  },
+  "users": {
+    "menuLabel": "Users"
+  },
+  "pageNotFound": {
+    "title": "Page Not Found"
+  },
+  "products": {
+    "title": "Products List",
+    "menuLabel": "Products Page"
+  },
+  "productForm": {
+    "name": "Name",
+    "price": "Price",
+    "img": "Image Link",
+    "save": "Save",
+    "addButton": "Add Product",
+    "editButton": "Edit Product",
+    "deleteButton": "Delete Product"
+  },
+  "productCard": {
+    "addToCartButton": "Add to cart",
+    "addToFavoritesButton": "Add to favorites",
+    "deleteFromFavoritesButton": "Delete from favorites",
+    "currency": "$"
+  },
+  "favorites": {
+    "title": "Your favorite products",
+    "menuLabel": "Favorites",
+    "currency": "$"
+  },
+  "favoritesList": {
+    "emptyList": "Your Favorites List is Empty",
+    "loadingError": "Loading Error",
+    "menuLabel": "Favorites",
+    "currency": "$"
+  },
+  "cart": {
+    "title": "My Cart",
+    "emptyCart": "Cart is empty",
+    "regCart": "Only for registered users",
+    "totalSum": "Total",
+    "deleteButton": "Delete",
+    "currency": "$"
+  },
+  "cartCard": {
+    "price": "Price",
+    "sum": "Sum"
+  },
+  "userForm": {
+    "email": "Email",
+    "userName": "User Name",
+    "save": "Save",
+    "add": "Add",
+    "delete": "Delete user",
+    "edit": "Edit User"
+  },
+  "loginForm": {
+    "loginError": "Login Error",
+    "googleLoginError": "Google Auth Error",
+    "email": "Email",
+    "password": "Password",
+    "login": "Log in"
+  },
+  "signUpForm": {
+    "signUpError": "Sign Up Error",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "signUpButton": "Sign Up"
+  },
+  "sharedTranslations": {
+    "loading": "Loading"
+  },
+  "validation": {
+    "nickName": {
+      "required": "Please enter a nickname",
+      "min": "Minimum 2 characters",
+      "max": "Maximum 30 characters"
+    },
+    "email": {
+      "invalid": "Invalid email",
+      "required": "Email is required"
+    },
+    "password": {
+      "min": "Minimum 8 characters",
+      "uppercase": "Must contain an uppercase letter",
+      "lowercase": "Must contain a lowercase letter",
+      "number": "Must contain a number",
+      "symbol": "Must contain a special character",
+      "required": "Password is required"
+    },
+    "productName": {
+      "required": "Please enter a product name",
+      "min": "Minimum 2 characters",
+      "max": "Maximum 100 characters"
+    },
+    "count": {
+      "typeError": "Price must be a number",
+      "required": "Please enter the price"
+    },
+    "imgLink": {
+      "required": "Please enter an image link",
+      "invalid": "Invalid image URL"
+    }
+  }
+}

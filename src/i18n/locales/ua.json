@@ -1,0 +1,118 @@
+{
+  "home": {
+    "title": "Ласкаво просимо до FireBase Shop!",
+    "menuLabel": "Головна"
+  },
+  "forbidden": {
+    "title": "Доступ заборонено"
+  },
+  "loginPage": {
+    "regTypeSignUp": "Зареєструватися",
+    "regTypeLogin": "Увійти",
+    "regTypeLogOut": "Вийти"
+  },
+  "users": {
+    "menuLabel": "Користувачі"
+  },
+  "pageNotFound": {
+    "title": "Сторінку не знайдено"
+  },
+  "products": {
+    "title": "Список товарів",
+    "menuLabel": "Сторінка товарів"
+  },
+  "productForm": {
+    "name": "Назва",
+    "price": "Ціна",
+    "img": "Посилання на зображення",
+    "save": "Зберегти",
+    "addButton": "Додати товар",
+    "editButton": "Редагувати товар",
+    "deleteButton": "Видалити товар"
+  },
+  "productCard": {
+    "addToCartButton": "Додати в кошик",
+    "addToFavoritesButton": "Додати у вибране",
+    "deleteFromFavoritesButton": "Видалити з вибраного",
+    "currency": "₴"
+  },
+  "favorites": {
+    "title": "Ваші улюблені товари",
+    "menuLabel": "Вибране",
+    "currency": "₴"
+  },
+  "favoritesList": {
+    "emptyList": "Ваш список улюблених порожній",
+    "loadingError": "Помилка завантаження",
+    "menuLabel": "Вибране",
+    "currency": "₴"
+  },
+  "cart": {
+    "title": "Мій кошик",
+    "emptyCart": "Кошик порожній",
+    "regCart": "Тільки для зареєстрованих користувачів",
+    "totalSum": "Разом",
+    "deleteButton": "Видалити"
+  },
+  "cartCard": {
+    "price": "Ціна",
+    "sum": "Сума"
+  },
+  "userForm": {
+    "email": "Електронна пошта",
+    "userName": "Ім'я користувача",
+    "save": "Зберегти",
+    "add": "Додати",
+    "delete": "Видалити користувача",
+    "edit": "Редагувати користувача"
+  },
+  "loginForm": {
+    "loginError": "Помилка входу",
+    "googleLoginError": "Помилка Google Auth",
+    "email": "Електронна пошта",
+    "password": "Пароль",
+    "login": "Увійти"
+  },
+  "signUpForm": {
+    "signUpError": "Помилка реєстрації",
+    "name": "Ім'я",
+    "email": "Електронна пошта",
+    "password": "Пароль",
+    "signUpButton": "Зареєструватися"
+  },
+  "sharedTranslations": {
+    "loading": "Завантаження"
+  },
+  "validation": {
+    "nickName": {
+      "required": "Вкажіть нікнейм",
+      "min": "Мінімум 2 символи",
+      "max": "Максимум 30 символів"
+    },
+    "email": {
+      "invalid": "Некоректний email",
+      "required": "Email обовʼязковий"
+    },
+    "password": {
+      "min": "Мінімум 8 символів",
+      "uppercase": "Має містити велику літеру",
+      "lowercase": "Має містити малу літеру",
+      "number": "Має містити цифру",
+      "symbol": "Має містити спецсимвол",
+      "required": "Пароль обовʼязковий"
+    },
+    "productName": {
+      "required": "Вкажіть назву продукту",
+      "min": "Назва має містити щонайменше 2 символи",
+      "max": "Назва не може перевищувати 100 символів"
+    },
+    "count": {
+      "typeError": "Ціна має бути числом",
+      "required": "Вкажіть ціну"
+    },
+    "imgLink": {
+      "required": "Вкажіть посилання на зображення",
+      "invalid": "Некоректне посилання на зображення"
+    }
+  }
+}
